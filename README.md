@@ -1,1 +1,1 @@
-#This is a clone of Netflix landing home page using HTML and CSS
+# This is a clone of Netflix landing home page using HTML and CSS
